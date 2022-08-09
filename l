@@ -1,1 +1,1 @@
-loadstring
+return loadstring
